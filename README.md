@@ -1,7 +1,7 @@
 # COVID-19-Tracker
 This program implements a COVID-19 tracker application.
 
-Technologies used: Java, Spring Boot, HTML
+Technologies used: Java, Spring Boot, HTML5, CSS3/Bootstrap
 
 <br/>
 
